@@ -1,0 +1,18 @@
+1. make a dir in local eg. Test_Git
+2. perform git init
+3. set user name and email 
+git config --global user.name "TEST"
+git config --global user.email "alias@domain.com"
+4. make a local repo 
+mkdir test_repo
+5. to start tracking perform 
+git init
+6. add some code into the folder
+7. perform 
+git add .
+8. perform 
+git commit -m "test"
+9. git remote add origin http://github.com/username/test_repo.git
+10. git push -u origin master
+###END###
+
