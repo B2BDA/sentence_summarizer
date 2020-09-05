@@ -12,6 +12,7 @@ git init
 git add .
 8. perform 
 git commit -m "test"
+Also go to the git hub webise and make a repo with the same name
 9. git remote add origin http://github.com/username/test_repo.git
 10. git push -u origin master
 ###END###
